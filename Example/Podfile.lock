@@ -1,0 +1,16 @@
+PODS:
+  - inlandSDK (0.1.0)
+
+DEPENDENCIES:
+  - inlandSDK (from `../`)
+
+EXTERNAL SOURCES:
+  inlandSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  inlandSDK: aef59fdf618e87f30f2739f6bcaab781f2d05795
+
+PODFILE CHECKSUM: 8730c857e0cb1b7c7bb32c91cb954a04b40a0ac1
+
+COCOAPODS: 1.15.2

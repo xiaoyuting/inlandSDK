@@ -28,10 +28,26 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/xiaoyuting/inlandSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'inlandSDK/Classes/**/*'
-  
+  # Pod库的构建设置排除arm64架构模拟器
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  # 主工程的构建设置排除arm64架构模拟器
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  #s.source_files = 'inlandSDK/Classes/**/*'
+
+      s.vendored_frameworks = ['inlandSDK/loginSDK.framework'] #自己的framework在工程中的路径
+   s.resource_bundles = {
+     'Resources' => ['inlandSDK/Assets/*.bundle']
+   }
+   s.dependency  'AnyThinkiOS','6.2.98'
+   s.dependency  'AnyThinkiOS/AnyThinkBaiduAdapter','6.2.98'
+   s.dependency  'AnyThinkKuaiShouSDKAdapter','6.2.98.1'
+   s.dependency  'AnyThinkTTSDKAdapter','6.2.98.1'
+   s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.2.98'
+
+   s.dependency   'AIHelpSDK', '~> 4.6.6'
+ 
   # s.resource_bundles = {
   #   'inlandSDK' => ['inlandSDK/Assets/*.png']
   # }
@@ -39,4 +55,4 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-end
+ end

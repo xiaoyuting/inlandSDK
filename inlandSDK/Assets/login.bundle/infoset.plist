@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADAppKey</key>
+	<string>88164f8bc5b911e0e020b6a57b726656</string>
+	<key>ADPlacementID</key>
+	<string>b61a4aa564a7f5</string>
+	<key>ADAppID</key>
+	<string>a619f2d594abab</string>
+	<key>sdkkf</key>
+	<string>https://m.dre1e.com/kefu/?from=ios</string>
+	<key>requestUrl</key>
+	<string>https://m.dre1e.com</string>
+	<key>sdkversion</key>
+	<string>3.9.8</string>
+	<key>appversion</key>
+	<string>1.0</string>
+	<key>sdkinfo</key>
+	<string>https://m.dre1e.com/index.php?act=base_agreement&amp;gm_source=IOS</string>
+	<key>appleId</key>
+	<string>1556383376</string>
+	<key>version</key>
+	<string>1.4.3</string>
+	<key>channel</key>
+	<string>2</string>
+	<key>gameid</key>
+	<string>4875</string>
+	<key>trackIoKey</key>
+	<string>827f5e641ae71a9a7817b4f192917306</string>
+	<key>TAAppId</key>
+	<string>3b0be931049d4640a9e94e6fac141ddb</string>
+	<key>TAUrl</key>
+	<string>https://tareport.gm88.com</string>
+	<key>releaseid</key>
+	<string>0</string>
+	<key>SYAppid</key>
+	<string>e6c0ef437dfb</string>
+	<key>kfkey</key>
+	<string>GM88_app_cb3c7be2b93d4a118f7ce55ea741e01d</string>
+	<key>domainName</key>
+	<string>gm88.aihelp.net</string>
+	<key>kfappId</key>
+	<string>gm88_platform_8e22a5bbf0dc501c5b81a6bf4a4e0c9b</string>
+	<key>wechatAppid</key>
+	<string></string>
+	<key>wechatlink</key>
+	<string></string>
+	<key>wbAppkey</key>
+	<string>4225951394</string>
+	<key>wbLink</key>
+	<string>https://deeplink.gm88.com/app1/</string>
+	<key>qqAppid</key>
+	<string>101949077</string>
+	<key>qqLink</key>
+	<string>https://demo.gm88.com/qq_conn/101949077</string>
+	<key>douyinClientKey</key>
+	<string>awmms3veimohgix8</string>
+	<key>startNotice</key>
+	<string>1</string>
+	<key>ALHelpEID</key>
+	<string>E001</string>
+</dict>
+</plist>
