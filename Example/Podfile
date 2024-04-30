@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'inlandSDK_Example' do
+  pod 'inlandSDK', :path => '../'
+
+  target 'inlandSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
