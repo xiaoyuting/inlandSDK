@@ -110,7 +110,7 @@ typedef NS_ENUM(NSInteger , agreementStatusCode) {
 
 //查询和谐配置的
  
-
++(NSArray*)getInfoArray:(NSString*)str;
 
 
 +(BOOL)isOpenMiniGame;

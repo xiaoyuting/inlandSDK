@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>purchaselist</key>
+	<array/>
 	<key>ADAppKey</key>
 	<string>88164f8bc5b911e0e020b6a57b726656</string>
 	<key>ADPlacementID</key>
