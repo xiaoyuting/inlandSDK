@@ -2,36 +2,119 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>yltoken</key>
+	<string>iuDfPVtkybKv1l7X9cnHCo4NYs6Q0jgA</string>
+	<key>ylappid</key>
+	<string>25709164</string>
 	<key>purchaselist</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包9</string>
+			<key>id</key>
+			<string>kjfzd_th9_34</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包8</string>
+			<key>id</key>
+			<string>kjfzd_th8_19</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包7</string>
+			<key>id</key>
+			<string>kjfzd_th7_14</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包6</string>
+			<key>id</key>
+			<string>kjfzd_th6_9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包5</string>
+			<key>id</key>
+			<string>kjfzd_th5_9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包4</string>
+			<key>id</key>
+			<string>kjfzd_th4_9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包3</string>
+			<key>id</key>
+			<string>kjfzd_th3_9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包2</string>
+			<key>id</key>
+			<string>kjfzd_th2_5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>特惠礼包1</string>
+			<key>id</key>
+			<string>kjfzd_th1_3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>季卡</string>
+			<key>id</key>
+			<string>kjfzd_jk_24</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>月卡</string>
+			<key>id</key>
+			<string>kjfzd_yk_9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>每周自选</string>
+			<key>id</key>
+			<string>kjfzd_mzzx_5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>快递基金</string>
+			<key>id</key>
+			<string>kjfzd_kdjj_9</string>
+		</dict>
+	</array>
 	<key>ADAppKey</key>
-	<string>88164f8bc5b911e0e020b6a57b726656</string>
+	<string>a55949c3afddbccbe8dae2c12246a567a</string>
 	<key>ADPlacementID</key>
-	<string>b61a4aa564a7f5</string>
+	<string>b6645cda6a3484</string>
 	<key>ADAppID</key>
-	<string>a619f2d594abab</string>
+	<string>a6645cd801e956</string>
 	<key>sdkkf</key>
 	<string>https://m.dre1e.com/kefu/?from=ios</string>
 	<key>requestUrl</key>
-	<string>https://m.dre1e.com</string>
+	<string></string>
 	<key>sdkversion</key>
 	<string>3.9.8</string>
 	<key>appversion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>sdkinfo</key>
 	<string>https://m.dre1e.com/index.php?act=base_agreement&amp;gm_source=IOS</string>
 	<key>appleId</key>
-	<string>1556383376</string>
+	<string>6502628225</string>
 	<key>version</key>
-	<string>1.4.3</string>
+	<string>1.0.1</string>
 	<key>channel</key>
 	<string>2</string>
 	<key>gameid</key>
-	<string>4875</string>
+	<string>5196</string>
 	<key>trackIoKey</key>
-	<string>827f5e641ae71a9a7817b4f192917306</string>
+	<string>f820aac9ecd8d6a55ac61358506e6386</string>
 	<key>TAAppId</key>
-	<string>3b0be931049d4640a9e94e6fac141ddb</string>
+	<string>3efd555abc7b42d6be3d141e2c493cfe</string>
 	<key>TAUrl</key>
 	<string>https://tareport.gm88.com</string>
 	<key>releaseid</key>
@@ -39,11 +122,11 @@
 	<key>SYAppid</key>
 	<string>e6c0ef437dfb</string>
 	<key>kfkey</key>
-	<string>GM88_app_cb3c7be2b93d4a118f7ce55ea741e01d</string>
+	<string>GM88_app_64514c5fd92549efbcdd33afe2ce225f</string>
 	<key>domainName</key>
-	<string>gm88.aihelp.net</string>
+	<string>gm88.aihelpcn.net</string>
 	<key>kfappId</key>
-	<string>gm88_platform_8e22a5bbf0dc501c5b81a6bf4a4e0c9b</string>
+	<string>gm88_platform_c27c6f8971e9dd5dee456ec83e1f6a77</string>
 	<key>wechatAppid</key>
 	<string></string>
 	<key>wechatlink</key>
