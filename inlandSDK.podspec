@@ -50,7 +50,7 @@ TODO: Add long description of the pod here.
    s.dependency 'UnionOpenPlatformSDK', '2.4.2.1', :subspecs => [
       # 必须组件
       'Core',
-      'DataLink',
+      'DataLink'
       
       # 可选组件
     #  'Douyin',
