@@ -47,18 +47,10 @@ TODO: Add long description of the pod here.
    s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.2.98'
 
    s.dependency   'AIHelpSDK', '~> 4.6.6'
-   s.dependency 'UnionOpenPlatformSDK', '2.4.2.1', :subspecs => [
-      # 必须组件
+   s.dependency 'UnionOpenPlatformSDK', '~> 2.4.2.1', :subspecs => [
+     
       'Core',
-      'DataLink'
-      
-      # 可选组件
-    #  'Douyin',
-     # 'Share',
-     # 'Replay',
-      
-      # 调试工具，请勿带上线！！！
-      #'DebugTool'
+      'DataLink',
     ]
   # s.resource_bundles = {
   #   'inlandSDK' => ['inlandSDK/Assets/*.png']
