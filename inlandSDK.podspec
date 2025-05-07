@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'inlandSDK'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = 'A short description of inlandSDK.'
 
 # This description is used to generate tags and improve search results.
@@ -40,15 +40,15 @@ TODO: Add long description of the pod here.
    s.resource_bundles = {
      'Resources' => ['inlandSDK/Assets/*.bundle']
    }
-   s.dependency  'AnyThinkiOS','6.2.98'
-   s.dependency  'AnyThinkiOS/AnyThinkBaiduAdapter','6.2.98'
-   s.dependency  'AnyThinkKuaiShouSDKAdapter','6.2.98.1'
-   s.dependency  'AnyThinkTTSDKAdapter','6.2.98.1'
-   s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.2.98'
+   s.dependency  'AnyThinkiOS','6.4.75'
+   s.dependency  'AnyThinkiOS/AnyThinkBaiduAdapter','6.4.75.2'
+   s.dependency  'AnyThinkKuaiShouSDKAdapter','6.4.75'
+   s.dependency  'AnyThinkTTSDKAdapter','6.4.75.2'
+   s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.4.75'
 
    s.dependency   'AIHelpSDK', '~> 4.6.6'
-   s.dependency 'UnionOpenPlatformSDK/Core', '2.4.2.1'
-   s.dependency 'UnionOpenPlatformSDK/DataLink', '2.4.2.1'
+   #s.dependency 'UnionOpenPlatformSDK/Core', '2.4.2.1'
+   #s.dependency 'UnionOpenPlatformSDK/DataLink', '2.4.2.1'
   # s.resource_bundles = {
   #   'inlandSDK' => ['inlandSDK/Assets/*.png']
   # }
