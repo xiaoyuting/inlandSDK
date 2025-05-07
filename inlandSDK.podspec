@@ -40,11 +40,11 @@ TODO: Add long description of the pod here.
    s.resource_bundles = {
      'Resources' => ['inlandSDK/Assets/*.bundle']
    }
-   s.dependency  'AnyThinkiOS','6.4.75'
-   s.dependency  'AnyThinkiOS/AnyThinkBaiduAdapter','6.4.75.3'
-   s.dependency  'AnyThinkKuaiShouSDKAdapter','6.4.75.1'
-   s.dependency  'AnyThinkTTSDKAdapter','6.4.75.3'
-   s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.4.75'
+   s.dependency  'AnyThinkiOS','~> 6.4.75'
+   s.dependency  'AnyThinkiOS/AnyThinkBaiduAdapter','~> 6.4.75'
+   s.dependency  'AnyThinkKuaiShouSDKAdapter','~> 6.4.75'
+   s.dependency  'AnyThinkTTSDKAdapter','~> 6.4.75'
+   s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','~> 6.4.75'
 
    s.dependency   'AIHelpSDK', '~> 4.6.6'
    #s.dependency 'UnionOpenPlatformSDK/Core', '2.4.2.1'
