@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'inlandSDK'
-  s.version          = '0.2.0'
+  s.version          = '0.2.1'
   s.summary          = 'A short description of inlandSDK.'
 
 # This description is used to generate tags and improve search results.
@@ -46,7 +46,7 @@ TODO: Add long description of the pod here.
    s.dependency  'AnyThinkTTSDKAdapter','~> 6.4.75.3'
    s.dependency   'AnyThinkGDTSDKAdapter','~> 6.4.75'
 
-   s.dependency   'AIHelpSDK', '~> 4.6.6'
+  # s.dependency   'AIHelpSDK', '~> 4.6.6'
    #s.dependency 'UnionOpenPlatformSDK/Core', '2.4.2.1'
    #s.dependency 'UnionOpenPlatformSDK/DataLink', '2.4.2.1'
   # s.resource_bundles = {
